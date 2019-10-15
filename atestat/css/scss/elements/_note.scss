@@ -1,0 +1,21 @@
+.note {
+    width: 80%;
+    padding: 5%;
+    margin: 0 auto;
+    background-color: $white;
+    
+    &__title {
+        color: red;
+    }
+    
+    &__body {
+        color: black;
+        background-color: aliceblue;
+        padding: 5%;
+        margin: 20px;
+    }
+}
+
+.timestamp {
+    color: blue;
+}
